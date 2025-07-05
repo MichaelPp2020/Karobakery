@@ -49,14 +49,6 @@ karobakery/
 
 ---
 
-## 👩‍🍳 Autora
-
-**Karo Palacios**  
-Emprendedora apasionada por la repostería creativa.  
-Gracias por apoyar los sueños hechos con harina, azúcar y amor. 💖
-
----
-
 ## 🚀 Instrucciones para ejecutar localmente
 
 ```bash
