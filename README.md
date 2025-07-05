@@ -42,25 +42,5 @@ karobakery/
 
 ---
 
-## 🔗 Contacto y redes
 
-- 📸 Instagram: [@karobakery11](https://www.instagram.com/karobakery11)
-- 📱 WhatsApp: [Haz clic para chatear](https://wa.me/593963221839)
-
----
-
-## 🚀 Instrucciones para ejecutar localmente
-
-```bash
-# Clonar el repositorio
-git clone https://github.com/tuusuario/karobakery.git
-
-# Acceder al directorio
-cd karobakery
-
-# Instalar dependencias
-npm install
-
-# Iniciar servidor local
-npm run dev
 
