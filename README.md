@@ -29,4 +29,46 @@ Este sitio web tiene como objetivo ofrecer una galería digital visualmente atra
 ---
 
 ## 🧩 Estructura del proyecto
+karobakery/
+├── public/
+│ └── images/ # Imágenes y videos de productos
+├── src/
+│ ├── components/ # Navbar, Footer
+│ ├── views/ # Galería, inicio
+│ └── App.vue # Raíz del proyecto
+├── README.md
+└── vite.config.ts
+
+
+---
+
+## 🔗 Contacto y redes
+
+- 📸 Instagram: [@karobakery11](https://www.instagram.com/karobakery11)
+- 📱 WhatsApp: [Haz clic para chatear](https://wa.me/593963221839)
+
+---
+
+## 👩‍🍳 Autora
+
+**Karo Palacios**  
+Emprendedora apasionada por la repostería creativa.  
+Gracias por apoyar los sueños hechos con harina, azúcar y amor. 💖
+
+---
+
+## 🚀 Instrucciones para ejecutar localmente
+
+```bash
+# Clonar el repositorio
+git clone https://github.com/tuusuario/karobakery.git
+
+# Acceder al directorio
+cd karobakery
+
+# Instalar dependencias
+npm install
+
+# Iniciar servidor local
+npm run dev
 
