@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://karobakeryec.vercel.app/sitemap.xml
